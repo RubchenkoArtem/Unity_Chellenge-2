@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Chellendje.sln"
+    "dotnet.defaultSolution": "Unity_Chellenge-2.sln"
 }
